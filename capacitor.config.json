@@ -1,0 +1,8 @@
+{
+  "appId": "com.miningcolonydefense.game",
+  "appName": "Mining Colony Defense",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#0a0e14"
+  }
+}
